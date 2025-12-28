@@ -1,74 +1,18 @@
-<!-- Animated, professional GitHub Profile README for Milan Dhungana -->
+# 💫 About Me:
+I’m an IT student who likes building real stuff, not just watching tutorials and calling it a day. I work with Java, C, and Python, and I’m big on modern web dev using React + Tailwind CSS, with Firebase/Appwrite on the backend.<br><br>I care about clean code, good logic, and projects that actually do something. I’m also into Unity game development, where I mix programming, physics, and creativity to make fun, functional experiences.<br><br>Always learning, always improving, and low-key obsessed with leveling up my skills. The end goal is to become a solid developer who ships reliable projects and knows what’s going on under the hood—not just copy-paste magic.<br><br>Building. Breaking. Fixing. Repeating. 🚀
 
-<h1 align="center">Hey 👋, I'm Milan Dhungana</h1>
-<h3 align="center">Unity Game Developer | React Frontend Developer | Tech Dreamer 🇳🇵</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Unity+%7C+C%23+Game+Developer;React+%7C+Firebase+Web+Developer;Lover+of+Smooth+UX+%26+Clean+Code;Always+Learning+%7C+Always+Building+💡" alt="Typing animation" />
-</p>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/MilanDhungana0/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/milan-dhungana-a97b81316/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:milandhungana131@gmail.com) 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coder gif" />
-</p>
-
----
-
-### 🔥 Who Am I?
-
-- 🎮 Building **Skyline Parkour** — a fast-paced 3D freerunning game in Unity  
-- 🚀 Obsessed with smooth player control, animations, and physics  
-- 🌍 Passionate about solving problems with tech  
-- ✨ Always exploring **AI**, **networking**, and **realistic game mechanics**
-- 🧠 Believer in lifelong learning and open-source sharing  
-- 📬 Reach me anytime: **milandhungana131@gmail.com**  
-- 🔗 [linkedin.com/in/milan-dhungana-a97b81316](https://www.linkedin.com/in/milan-dhungana-a97b81316/)
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Clojure](https://img.shields.io/badge/Clojure-%23Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=Clojure) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Framework7](https://img.shields.io/badge/framework7-%23EE350F.svg?style=for-the-badge&logo=framework7&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=dh-milan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=dh-milan&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dh-milan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=dh-milan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🧰 My Toolbox
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,csharp,react,js,html,css,tailwind,firebase,git,vscode,figma" />
-</p>
-
----
-
-### 🚀 Highlighted Projects
-
-| Project | Description |
-|--------|-------------|
-| 🎮 [Skyline Parkour](https://github.com/milandhungana/SkylineParkour) | Unity-based freerunning parkour game with advanced movement |
-| ✅ [Task Manager App](https://github.com/milandhungana/TaskManagerApp) | React + Firebase task planning app |
-| 📦 [Nepal Shipment Finder](https://github.com/milandhungana/ShipmentPartnersNepal) | Courier search tool by city in Nepal |
-
----
-
-### 🧠 What I’m Learning Right Now
-
-- 👾 Unity AI Pathfinding & Behavior Trees  
-- 🌐 Multiplayer Networking in Unity  
-- ✈️ Realistic Flight Physics  
-- 🔥 Firebase Cloud Functions & Firestore Triggers  
-
----
-
-### 📫 Let’s Connect
-
-<p align="center">
-  <a href="mailto:milandhungana131@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/milan-dhungana-a97b81316"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/milandhungana"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
----
-
-### 📸 Featured Quote
-
-> 💡 *“The only way to do great work is to love what you do.”*  
-> — Steve Jobs
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
